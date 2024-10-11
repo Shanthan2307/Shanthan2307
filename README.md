@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Transformers, NLP, and Linux
 
-💞️ I’m looking to collaborate on exciting projects in these areas
+💞️ I’m looking to collaborate on exciting projects in Bioinfomatic/healthcare and AI/ML
 
 📫 How to reach me: shanthanttu.cs@gmail.com
 
