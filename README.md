@@ -2,7 +2,7 @@
 
 👀 I’m interested in AI/ML, Bioinformatics, interdisciplinary HPC
 
-🌱 I’m currently learning Transformers, NLP, and Linux
+🌱 I’m currently learning WEB3, NLP, and Linux
 
 💞️ I’m looking to collaborate on exciting projects in Bioinfomatic/healthcare and AI/ML
 
