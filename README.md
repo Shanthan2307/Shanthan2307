@@ -40,49 +40,6 @@ I'm a young, fast-learning software engineer who builds across the **whole stack
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: David Malan congratulated me on completing *Tideman* in CS50 on Reddit!
 
----
-
-### 🚀 Top projects I'm working on
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### ⏱️ [CodeLapse](https://github.com/Shanthan2307/Codelapse_ext)
-A **VS Code extension** that silently records your coding sessions and replays them as a 60 FPS, multi-file **code timelapse**. It diffs snapshots line by line and animates the edits character by character, with cursor and selection tracking, milestone markers (test runs, HMR, server start) and AI-generated commit and PR summaries.
-
-`TypeScript` `React` `VS Code API` `PrismJS`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎟️ [Scalpless](https://github.com/Shanthan2307/scalpless)
-**One human, one fair chance.** A Shopify plugin plus on-chain protocol for hype launches. Every buyer is a **World ID**-verified human, winners are drawn with **Sui on-chain randomness**, each win is a tokenized claim on real inventory, and buyers can finance it with an identity-backed, uncollateralized loan.
-
-`TypeScript` `Move` `Solidity` `Sui` `World ID` `Shopify`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 💸 [Routefi](https://github.com/Shanthan2307/routefi)
-A self-hosted **pay-per-request API gateway for AI agents**. Using the **x402** protocol, the gateway returns `402 Payment Required`, the agent pays USDC on **Base**, the gateway verifies the payment, proxies the request and issues a cryptographic receipt. No subscriptions and no API keys.
-
-`TypeScript` `Node.js` `Solidity` `Base` `x402`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛡️ [AEGIS](https://github.com/Shanthan2307/aegis)
-A dual-platform **operational readiness and longevity system**. A **SwiftUI** iOS client fuses camera-based rPPG vitals and wearable data, and an LLM models "Healthspan Delta". A **Next.js** tactical command center then visualizes fleet-wide telemetry and dispatches real-time voice interventions.
-
-`Swift` `SwiftUI` `Next.js` `Tailwind` `Gemini` `ElevenLabs`
-
-</td>
-</tr>
-</table>
-
 <details>
 <summary><b>🧰 More things I've built</b></summary>
 <br/>
