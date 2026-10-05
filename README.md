@@ -10,32 +10,31 @@
   <img src="https://komarev.com/ghpvc/?username=Shanthan2307&style=for-the-badge&color=F75C03&label=Profile+views" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%" alt="Anime cyberpunk city" />
+</p>
+
 ---
 
 ### ⚡ About me
 
+<img align="right" src="https://i.pinimg.com/originals/69/be/7e/69be7e1f5343b7ebf9632ec5e554f1f6.gif" width="260" alt="Luffy saying YO!" />
+
 I'm a young, fast-learning software engineer who builds across the **whole stack**, from smart contracts and API gateways to slick React dashboards and native iOS apps. I like hard problems, short feedback loops, and shipping working demos over the course of a weekend hackathon.
 
-```rust
-struct Shanthan {
-    role: &'static str,
-    focus: [&'static str; 3],
-    learning_now: &'static str,
-    building_irl: [&'static str; 3],
-}
+**🔨 Currently working on**
 
-const ME: Shanthan = Shanthan {
-    role: "Full-Stack Software Engineer",
-    focus: ["Backend systems", "Frontend experiences", "Web3 + AI agents"],
-    learning_now: "Rust 🦀",
-    building_irl: ["Drone GPS routing 🛰️", "3D printing 🖨️", "3D CAD design 📐"],
-};
-```
+- ⏱️ **[CodeLapse](https://github.com/Shanthan2307/Codelapse_ext)**: VS Code coding-session timelapse recorder
+- 🎟️ **[Scalpless](https://github.com/Shanthan2307/scalpless)**: fair, bot-proof product drops on Shopify
+- 💸 **[Routefi](https://github.com/Shanthan2307/routefi)**: pay-per-request API gateway for AI agents
+- 🛡️ **[AEGIS](https://github.com/Shanthan2307/aegis)**: operational readiness and longevity tracking
+- 🛰️ **Drone GPS routing**: waypoint routing and path planning for drones
+- 🖨️ **3D printing & CAD**: designing and printing custom parts
+
+<br clear="right"/>
 
 - 🔭 Building **developer tools**, **on-chain protocols**, and **agentic AI systems**
 - 🦀 Currently learning **Rust** for fast, safe systems and infrastructure code
-- 🛰️ Working on infrastructure projects like **drone GPS routing** and path planning
-- 🖨️ Designing parts in **3D CAD** and bringing them to life on the **3D printer**
 - 🧬 Long-standing interests: AI/ML, bioinformatics, and interdisciplinary HPC
 - 🏆 Regular hackathon builder (ETHGlobal, Sui Blockathon, AI Agent Economy Hackathon and more)
 - 😄 Pronouns: He/Him
@@ -100,33 +99,11 @@ A dual-platform **operational readiness and longevity system**. A **SwiftUI** iO
 
 ### 🛠️ Skills & tools
 
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,rust,swift,c,cpp,solidity,html,css,bash&perline=11" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,rust,swift,c,cpp,solidity,html,css,bash,react,nextjs,vite,tailwind,redux,threejs,figma,nodejs,express,fastapi,flask,graphql,postgres,mongodb,sqlite,redis,prisma,docker,linux,aws,gcp,vercel,cloudflare,nginx,githubactions,git&perline=13" />
 </p>
 
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,threejs,figma&perline=11" />
-</p>
-
-**Backend & data**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql,postgres,mongodb,sqlite,redis,prisma&perline=11" />
-</p>
-
-**Cloud, DevOps & infra**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,aws,gcp,vercel,cloudflare,nginx,githubactions,git&perline=11" />
-</p>
-
-**Web3, AI & hardware**
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Sui%20Move-4DA2FF?style=flat-square&logo=sui&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=coinbase&logoColor=white" />
